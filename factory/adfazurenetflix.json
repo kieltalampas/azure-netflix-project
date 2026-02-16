@@ -1,0 +1,9 @@
+{
+	"name": "adfazurenetflix",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "516ff8c1-1159-4bb2-bb5b-e9448ce5d190",
+		"tenantId": "6c8595cd-441d-4f45-99fa-e565a25a3527"
+	}
+}
